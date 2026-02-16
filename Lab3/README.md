@@ -23,3 +23,8 @@
 <p>
     Using environment variables, especially in a cloud environment, make it far simpler when redeploying an application. For example after deploying something in App Service. if a code change was made because a dependency changed and no environment variables were set the application might deploy fine but overall it wouldn't work.  If an environment variable was used, you could still deploy and would just need to change the value of that variable in a single place and it would be injected at runtime.
 </p>
+
+### Notes:
+<p>
+    I ran into an issue with my student account when creating the Static Web App for the store-front.  All of the regions where the underlying infra would be created were unavailable to me.  As a workaround I had to use my personal Azure account to deploy the store-front. This allowed me to completel the lab. Once I set the environment variables in the .yml file to the domains of the app services on my student account everything worked without issue.
+</p>
