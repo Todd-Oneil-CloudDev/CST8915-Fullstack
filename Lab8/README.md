@@ -3,6 +3,15 @@
 
 ### Links
 <a href="https://www.youtube.com/watch?v=rRrht5EeIWk">Lab 8 Video Submission</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/26W_CST8915_Lab8">Lab 8 Repo</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/ai-service-L8">AI Service</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/store-front-L8">Store-Front Service</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/order-service-L8">Order Service</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/makeline-service-L8">Makeline Service</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/product-service-L8">Product Service</a>
+<a href="https://github.com/Todd-Oneil-CloudDev/store-admin-L8">Store-Admin Service</a>
+
+
 
 ### Azure managed services for MongoDB
 <p>
